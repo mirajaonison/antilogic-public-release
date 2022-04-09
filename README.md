@@ -7,9 +7,8 @@ This repository makes available the binary files for the scientific community.
 
 Please find the full citation hereafter 
 
-```
-Rajaonison, A. et al. (2022) ‘Antilogic, a new supervised machine learning software for the automatic interpretation of antibiotic susceptibility testing in clinical microbiology: proof-of-concept on three frequently isolated bacterial species’, Clinical Microbiology and Infection. Elsevier, 0(0). doi: 10.1016/J.CMI.2022.03.035.
-```
+
+>Rajaonison, A. et al. (2022) ‘Antilogic, a new supervised machine learning software for the automatic interpretation of antibiotic susceptibility testing in clinical microbiology: proof-of-concept on three frequently isolated bacterial species’, Clinical Microbiology and Infection. Elsevier, 0(0). doi: 10.1016/J.CMI.2022.03.035.
 
 You may contact the authors 
 * mirajaonison@yahoo.com
